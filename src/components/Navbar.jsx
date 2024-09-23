@@ -30,9 +30,11 @@ const Navbar = () => {
                                 How it works
                             </a>
                             <div className="absolute left-0 top-full mt-2 w-48 bg-white shadow-lg rounded z-10 opacity-0 transform scale-y-0 group-hover:opacity-100 group-hover:scale-y-100 transition-all duration-300 ease-out">
-                                <a href="/how-it-works-1" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">How Printify Works</a>
-                                <a href="/how-it-works-2" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Print On Demand</a>
-                                <a href="/how-it-works-3" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Printify Quality Promise</a>
+                                <a href="https://printify.com/how-it-works/" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">How Printify Works</a>
+                                <a href="https://printify.com/print-on-demand/" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Print On Demand</a>
+                                <a href="https://printify.com/the-printify-quality-promise/" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Printify Quality Promise</a>
+                                <a href="https://printify.com/the-printify-quality-promise/" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">What to Sell</a>
+
                             </div>
                         </li>
                         <li>
@@ -44,8 +46,8 @@ const Navbar = () => {
                         <li className="relative group">
                             <a href="#" className="hover:text-[#39b75d] cursor-pointer" aria-label="Services">Services</a>
                             <div className="absolute left-0 top-full mt-2 w-48 bg-white shadow-lg rounded z-10 opacity-0 transform scale-y-0 group-hover:opacity-100 group-hover:scale-y-100 transition-all duration-300 ease-out">
-                                <a href="/service-1" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Service 1</a>
-                                <a href="/service-2" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Service 2</a>
+                                <a href="https://printify.com/printify-studio/" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Printify Studio</a>
+                                <a href="/service-2" className="block px-4 py-2 text-gray-600 hover:text-[#39b75d]">Printify Express Delivery</a>
                             </div>
                         </li>
                         <li>
